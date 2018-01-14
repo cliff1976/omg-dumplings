@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Soul Samosas"
+date:   2018-01-08 12:55:14 -0600
+categories: recipe
+region:  [Asia, India]
+---
+
+Do Samosas really count as dumpings?  Why not?
+
+Other Asian dumplings:  
+<ul>
+    {% for post in site.posts  %}
+        {%  if post.region contains 'Asia' %} 
+            <li>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} via the URL {{ post.url }}</a>
+            </li>
+        {%  endif %} 
+    {% endfor %}
+</ul>
+    
+This is {{ page.region }}.  Right?
