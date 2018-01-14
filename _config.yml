@@ -17,7 +17,7 @@ title: OMG Dumplings!
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Can you think of anything better than boiled, steamed, or fried dough surrounding a filling of meat, cheese, vegetables, fruit, candy, etc.?  Neither can we!
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://omg-dumplings.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cliff1976
 # new from cliff
