@@ -19,4 +19,4 @@ Other Asian dumplings:
     {% endfor %}
 </ul>
     
-This is {{ page.region }}.  Right?
+This is {{ page.region | array_to_sentence_string }}.  Right?
