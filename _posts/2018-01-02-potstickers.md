@@ -7,3 +7,5 @@ region: [Asia, China]
 ---
 
 So why *are* they called "pot stickers," anyway?
+
+If you fry them crispily, they shouldn't stick to the pan, right?  That's what the sesame oil is for!
