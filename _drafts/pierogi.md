@@ -3,7 +3,7 @@ layout: post
 title:  "Pierogi"
 date:   2018-01-13
 categories: recipe
-region:  [Eastern Europe]
+region:  [Europe, Eastern Europe]
 ---
 ## Russki ##
 Cheese, potato, and onion.  

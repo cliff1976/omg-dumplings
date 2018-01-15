@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stick that in your pot and fry it!"
+title:  Potstickers
 date:   2018-01-06
 categories: recipe
 region: [Asia, China]
