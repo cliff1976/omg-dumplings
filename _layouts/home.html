@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+<div class="home">
+    <p><strong>O</strong>h <strong>M</strong>y <strong>G</strong>oodness, we loves us some <em>dumplings!</em></p>
+    
+    <p>It's true.  We'll eat 'em sweet or savory.  We'll eat 'em meaty or veggie.  We'll eat 'em baked, boiled, fried, steamed, or any combination thereof.</p>
+    <p>We've eaten them, whenever possible, with every trip taken to a new cuisine.  We're on a quest to try them all (!) and record our progress here.</p>
+    
+    <p>Here's where we've been, dumpling-wise, so far:</p>
+    
+    <ul>Asia
+    {% assign sorted_posts = site.categories.recipe | sort: 'title' %}
+    {% for post in sorted_posts %}
+        {%  if post.region contains 'Asia' and post.url <> page.url %} 
+            <li>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {%  endif %} 
+    {% endfor %}
+    </ul>
+    
+    <ul>Central America
+    {% assign sorted_posts = site.categories.recipe | sort: 'title' %}
+    {% for post in sorted_posts %}
+        {%  if post.region contains 'Central America' and post.url <> page.url %} 
+            <li>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {%  endif %} 
+    {% endfor %}
+    </ul>
+    <ul>Europe
+    {% assign sorted_posts = site.categories.recipe | sort: 'title' %}
+    {% for post in sorted_posts %}
+        {%  if post.region contains 'Europe' and post.url <> page.url %} 
+            <li>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {%  endif %} 
+    {% endfor %}
+    </ul>
+    <ul>North America
+    {% assign sorted_posts = site.categories.recipe | sort: 'title' %}
+    {% for post in sorted_posts %}
+        {%  if post.region contains 'North America' and post.url <> page.url %} 
+            <li>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {%  endif %} 
+    {% endfor %}
+    </ul>
+
+    
+<!--
+  <h1 class="page-heading">Posts</h1>
+  
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+-->
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
