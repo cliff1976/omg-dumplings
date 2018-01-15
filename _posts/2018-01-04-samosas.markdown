@@ -8,15 +8,28 @@ region:  [Asia, India]
 
 Do Samosas really count as dumpings?  Why not?
 
-Other Asian dumplings:  
+Other Indian dumplings:
 <ul>
     {% for post in site.posts  %}
-        {%  if post.region contains 'Asia' %} 
+        {%  if post.region contains 'India' and post.url <> page.url %} 
             <li>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} via the URL {{ post.url }}</a>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </li>
         {%  endif %} 
     {% endfor %}
 </ul>
+
+Other Asian dumplings:  
+<ul>
+    {% for post in site.posts  %}
+        {%  if post.region contains 'Asia' and post.url <> page.url %} 
+            <li>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {%  endif %} 
+    {% endfor %}
+</ul>
+
+
     
 This is {{ page.region | array_to_sentence_string }}.  Right?
