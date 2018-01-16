@@ -7,7 +7,12 @@ region: [Asia, China]
 comments: true
 ---
 
-the disqus shortname is {{ site.disqus.shortname }}
+## Other names
+- jiaozi 
+- gyoza (Japan inspired by China, yet again)
+- momos (Nepalese/Tibetan)
+
+## Existential Questions
 
 So why *are* they called "pot stickers," anyway?
 
