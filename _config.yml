@@ -24,7 +24,8 @@ twitter_username:
 other_twitter_username:  
 github_username:  
 # new from cliff
-site.disqus.shortname: omg-dumplings
+disqus:
+    shortname: omg-dumplings
 
 permalink: none
 
