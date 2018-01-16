@@ -24,9 +24,7 @@ comments: true  # turn this on for comments in posts
     {{ content }}
 
   </div>
-Cliff says:  the jekyll environment is {{ jekyll.environment }} ... just so you know.
   {% if site.disqus.shortname %}
-  the disqus shortname is {{ site.disqus.shortname }}
     {% include disqus_comments.html %}
   {% endif %}
 </article>
