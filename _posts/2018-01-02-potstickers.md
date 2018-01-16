@@ -4,7 +4,10 @@ title:  Potstickers
 date:   2018-01-06
 categories: recipe
 region: [Asia, China]
+comments: true
 ---
+
+the disqus shortname is {{ site.disqus.shortname }}
 
 So why *are* they called "pot stickers," anyway?
 
