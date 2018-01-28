@@ -17,3 +17,5 @@ comments: true
 So why *are* they called "pot stickers," anyway?
 
 If you fry them crispily, they shouldn't stick to the pan, right?  That's what the sesame oil is for!
+
+![Chinese Dumplings Steam-Fried]({{ "assets/img/chinese_dumplings_steamfried.jpg" | absolute_url }})
