@@ -3,6 +3,7 @@
 I'm just using my love of food surrounded by dough to learn about 
 
 - Jekyll
+- (and Ruby, ostensibly)
 - Git
 - GitHub
 - Netlify
