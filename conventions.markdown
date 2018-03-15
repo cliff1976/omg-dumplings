@@ -15,4 +15,4 @@ permalink: /conventions/
     
     C'mon -- you're not really going to weigh out 4.2 grams of chili powder or something, right?
 
-- We won't make you wade through a whole backstory on a recipe like so many other food bloggers do.  That bugs.  We know what you're here for.  The backstory, if any will come after any lists of ingredients, techniques and cooking notes.
+- We won't make you wade through a whole backstory on a recipe like so many other food bloggers do.  That bugs.  We know what you're here for.  The backstory, if any, will come after any lists of ingredients, techniques and cooking notes.
