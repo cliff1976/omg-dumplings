@@ -11,4 +11,4 @@ We don't have access to all the ingredients and equipment we could ever want to 
 <p><br style="clear:both;"></p>
 
 <p><br style="clear:both;"></p>
-<sup>[1](#notfish)</sup><small>Not fish, though.  Never fish.</small>
+<sup>[1](#notfish)</sup><small>Not fish, though.  Never fish.  Well... maybe tuna from a can?</small>
