@@ -16,7 +16,9 @@ Get super-authentic if you like and import a [Molcajete](https://en.wikipedia.or
 ### Steam Chamber Cooker Thingie ###
 Our landlady equipped the kitchen in the house we rent with a device whose proper English name we don't know.  It's a built-in *Dampfgarer* ("steam cooker?") about the size of a microwave oven.  You fill a reservoir with water and it heats up that water and distributes the steam throughout the chamber.  Mostly we use it for steaming vegetables or giving bread dough a warm, moist place to rise.  
 
-It's not to be confused with a steam oven, though.  Its maximum temperature is 100 °C, and from what we've read, a steam oven is more like a traditional oven but with the ability to apply jets of steam to the contents while baking at normal baking temperatures.
+It's not to be confused with a steam oven, though.  Its maximum temperature is 100 °C, and from what we've read, a steam oven is more like a traditional oven but with the ability to apply jets of steam to the contents while baking at normal baking temperatures.  Probably baguette-bakers need this the most.
+
+We plan on using ours for [*tamales*]({{site.baseurl }}{%post_url 2018-01-10-tamales %}) in the near future.
 
 ### Steamer Basket ###
 
