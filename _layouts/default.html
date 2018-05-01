@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+    <!-- cliff edited the default layout on 20180501 -->
+    <script src="/js-global/FancyZoom.js" type="text/javascript"></script>
+    <script src="/js-global/FancyZoomHTML.js" type="text/javascript"></script>
+  <body onload="setupZoom()"> <!-- cliff modified the body tag accordingly -->
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
