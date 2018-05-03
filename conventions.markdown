@@ -9,7 +9,7 @@ permalink: /conventions/
 - We're pretty good at going back and forth between Celsius and Fahrenheit, so our recipes will probably list both.
 
 - Spoons
-    - "T" and "tbsp." mean "tablespoon"
+    - "T" and "tbsp" mean "tablespoon"
 
     - "t" and "tsp" mean "teaspoon"
     

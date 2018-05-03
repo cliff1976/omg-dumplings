@@ -17,7 +17,7 @@
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
-            <a href="dumpform.html">Write to us about dumplings!</a>
+            <a href="{{ site.baseurl }}{% link dumpform.html %}">Write to us about dumplings!</a>
         </ul>
       </div>
 
