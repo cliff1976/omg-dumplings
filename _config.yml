@@ -7,7 +7,7 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
+# 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -26,9 +26,9 @@ github_username:
 # new from cliff
 disqus:
     shortname: omg-dumplings
-
+#
 permalink: none
-
+#
 # Build settings
 markdown: kramdown
 theme: minima
@@ -36,7 +36,7 @@ theme: minima
 # minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
-
+#
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
@@ -48,7 +48,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+#
 # assets folder for our static images, etc.
 defaults:
 - scope:
