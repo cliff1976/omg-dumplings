@@ -7,38 +7,33 @@ layout: default
     
     <p>It's true.  We'll eat 'em sweet or savory.  We'll eat 'em meaty or veggie.  We'll eat 'em baked, boiled, fried, steamed, or any combination thereof.</p>
     <p>We've eaten them, whenever possible, with every trip taken to a new cuisine.  We're on a quest to try them all (!) and record our progress here.</p>
+
+    <p>We're well-traveled, but we haven't eaten every possible dumpling or tried to make them all at home, yet.  Therefore, we've split them up into "Been There", "Made Those" and "Future Noms" categories.</p> 
     
-    <p>Here's where we've been, dumpling-wise, so far:</p>
     
-    <ul>Asia
-    {% assign sorted_posts = site.categories.recipe | sort: 'title' %}
+    <ul>Been There
+    {% assign sorted_posts = site.categories.been-there | sort: 'title' %}
     {% for post in sorted_posts %}
-        {%  if post.region contains 'Asia' and post.url <> page.url %} 
             <li>
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </li>
-        {%  endif %} 
     {% endfor %}
     </ul>
     
-    <ul>Central America
-    {% assign sorted_posts = site.categories.recipe | sort: 'title' %}
+    <ul>Made Those
+    {% assign sorted_posts = site.categories.made-those | sort: 'title' %}
     {% for post in sorted_posts %}
-        {%  if post.region contains 'Central America' and post.url <> page.url %} 
             <li>
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </li>
-        {%  endif %} 
     {% endfor %}
     </ul>
-    <ul>Europe
-    {% assign sorted_posts = site.categories.recipe | sort: 'title' %}
+    <ul>Future Noms
+    {% assign sorted_posts = site.categories.future-noms | sort: 'title' %}
     {% for post in sorted_posts %}
-        {%  if post.region contains 'Europe' and post.url <> page.url %} 
             <li>
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
             </li>
-        {%  endif %} 
     {% endfor %}
     </ul>
     <!-- don't have anything for North America yet 
