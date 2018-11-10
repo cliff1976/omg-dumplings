@@ -2,7 +2,7 @@
 layout: post
 title:  "Chinkali"
 date:   2018-01-01
-categories: recipe
+categories:  future-noms
 region: [Asia, Caucasus]
 author:
 ---

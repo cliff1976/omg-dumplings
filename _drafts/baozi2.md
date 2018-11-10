@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Baozi"
+title:  "Baozi Again"
 date:   20180401
 categories:  future-noms
 region: [Asia, China]

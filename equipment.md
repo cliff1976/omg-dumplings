@@ -2,6 +2,7 @@
 layout: page
 title: Equipment
 permalink: /equipment/
+titleorder: 50
 ---
 Earth people have been making dumplings for as long as they have been growing food.  They didn't have steam ovens, blenders, or garlic presses, but that doesn't mean you shouldn't take advantage of what you've got.
 

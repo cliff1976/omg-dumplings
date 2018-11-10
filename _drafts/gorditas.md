@@ -2,7 +2,7 @@
 layout: post
 title:  "Gorditas — little fatties"
 date:   2018-01-08 12:55:14 -0600
-categories: recipe
+categories: been-there  future-noms
 region:  [Central America, Mexico]
 ---
 

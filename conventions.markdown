@@ -2,6 +2,7 @@
 layout: page
 title: Conventions
 permalink: /conventions/
+titleorder: 55
 ---
 
 - We generally prefer mass over volume (ooh, that's dense, right?) and often convert volume-based recipes we find on to mass-based measurements when we put our spin on them.

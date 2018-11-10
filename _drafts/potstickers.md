@@ -2,7 +2,7 @@
 layout: post
 title:  Potstickers
 date:   2018-01-06
-categories: recipe
+categories: recipe made-those 
 region: [Asia, China]
 comments: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Samosas"
 date:   2018-01-08 12:55:14 -0600
-categories: recipe
+categories:  future-noms
 region:  [Asia, India]
 ---
 

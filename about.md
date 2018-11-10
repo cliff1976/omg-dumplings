@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+titleorder: 10
 ---
 
 After eating for over 80 years (between the two of us), it recently dawned on us that we get an unexpected amount of pleasure out of food wrapped up in dough.  Pretty much any kind of food<a href="#notfish"><sup>[1]</sup></a> in pretty much any kind of dough.

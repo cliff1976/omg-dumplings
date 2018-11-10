@@ -2,7 +2,7 @@
 layout: post
 title:  "Pupusas"
 date:   2018-01-07 
-categories: recipe
+categories:  future-noms
 region:  ["Central America", Honduras, El Salvador]
 ---
 

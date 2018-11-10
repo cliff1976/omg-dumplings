@@ -2,7 +2,7 @@
 layout: post
 title:  "Chicken and Dumplings"
 date:   20180101
-categories: recipe
+categories: recipe been-there made-those
 region: [North America]
 author: Yer Ma
 ---

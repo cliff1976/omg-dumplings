@@ -2,7 +2,7 @@
 layout: post
 title:  Içli
 date:   2018-04-30 12:55:14 -0600
-categories: recipe
+categories: been-there  future-noms
 region:  [Asia, Turkey]
 ---
 

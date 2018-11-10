@@ -2,7 +2,7 @@
 layout: post
 title:  "Apple Dumplings"
 date:   20180101
-categories: recipe
+categories:  future-noms been-there
 region: [North America]
 author: Yer Ma
 ---
