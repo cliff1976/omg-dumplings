@@ -10,7 +10,7 @@ comments: true
 ## Other names
 - jiaozi 
 - gyoza (Japan inspired by China, yet again)
-- Cf. [potstickers]({{ site.baseurl }}{% link _drafts/potstickers.md %}) (this recipe will seem eerily familiar)
+- Cf. [potstickers]({{ site.baseurl }}{% link _posts/2018-11-29-potstickers.md %}) (this recipe will seem eerily familiar)
 
 ## Ingredients ## 
 ### Wrapper Dough ###
